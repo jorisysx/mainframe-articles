@@ -1,2 +1,2 @@
 # mainframe-articles
-a small repository by close friends of about our learnings about mainframe and IT in general :)  
+a small repository by close friends about our learnings about mainframe and IT in general :)  
